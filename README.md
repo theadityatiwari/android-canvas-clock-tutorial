@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="canvas_turorial_banner.png" alt="Android Canvas Tutorial Banner" width="80%" height="340px" style="object-fit: cover;"/>
+</p>
+
+<p align="center">
   <b>A complete, beginner-friendly tutorial on Android Canvas API.</b><br/>
   Build a fully working analog clock from absolute scratch — one step at a time.<br/>
   No third-party libraries. No XML drawables. Pure Canvas, Paint, and Path.
